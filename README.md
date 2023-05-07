@@ -43,7 +43,7 @@ After importing all the 12 CSV files, they were aggregated into a single dataset
 * end_lng (longitude where bike trips ended)
 * member_casual (user type: casual riders or Cyclistic members)
 
-#### Step 2: Data Tranformation
+#### Step 2: Data Transformation
 After having me make sure that the data was consistent, I proceeded to add new columns to the dataset to have a more robust analysis. I added separate columns listing the day of the week, day of the month, month, and year as another column for the ride length.
 
 #### Step 3: Data Cleaning
