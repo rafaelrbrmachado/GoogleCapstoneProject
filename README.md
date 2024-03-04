@@ -55,7 +55,7 @@ After exploring the data I came across with three main problems:
 So, I proceeded to clean these columns.
 
 ## Analyze and Data Visualization :bar_chart:
-At this point, all the data was consistent and complete. So, I started analyzing it and created several visuals using Tableau Public which culminated in a comprehensive Dashboard that can be accessed [here](https://public.tableau.com/shared/XZS6Z7PZF?:display_count=n&:origin=viz_share_link).
+At this point, all the data was consistent and complete. So, I started analyzing it and created several visuals using Tableau Public which culminated in a comprehensive Dashboard that can be accessed [here](https://public.tableau.com/shared/PWXF53FNQ?:display_count=n&:origin=viz_share_link).
 
 ## Findings :mag:
 During this period 4.482.290 trips were taken. Members represented approximately 60% of all trips, while casual riders represented about 40%, and for both user types, classic bikes are the most used.
